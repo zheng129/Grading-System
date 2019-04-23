@@ -1,0 +1,15 @@
+UserID,FirstName,LastName,IsFaculty,CourseID,CourseTitle,Year,Term,CourseDescription,GradeID,GradeType,GradeTitle,GradeValue,MaxGradeValue,Percentage
+1,yixing,zheng,0,2,SE 300,2018,Fall,Software Engineering Requirements,2,2,midterm,30,50,60.0
+1,yixing,zheng,0,2,SE 300,2018,Fall,Software Engineering Requirements,3,3,final,80,100,80.0
+1,yixing,zheng,0,3,SE 310,2018,Fall,Software Engineering Testing,2,2,midterm,30,50,60.0
+1,yixing,zheng,0,3,SE 310,2018,Fall,Software Engineering Testing,3,3,final,80,100,80.0
+1,yixing,zheng,0,4,CPSC 354,2018,Fall,Programming Languages,2,2,midterm,30,50,60.0
+1,yixing,zheng,0,4,CPSC 354,2018,Fall,Programming Languages,3,3,final,80,100,80.0
+1,yixing,zheng,0,5,CPSC 351,2018,Fall,Computer Architecture,2,2,midterm,30,50,60.0
+1,yixing,zheng,0,5,CPSC 351,2018,Fall,Computer Architecture,3,3,final,80,100,80.0
+1,yixing,zheng,0,6,CPSC 408,2019,Fall,Database Management,2,2,midterm,30,50,60.0
+1,yixing,zheng,0,6,CPSC 408,2019,Fall,Database Management,3,3,final,80,100,80.0
+1,yixing,zheng,0,1,CPSC 408,2018,Fall,Database Management,2,2,midterm,30,50,60.0
+1,yixing,zheng,0,1,CPSC 408,2018,Fall,Database Management,3,3,final,80,100,80.0
+1,yixing,zheng,0,7,CPSC 408,2018,Spring,Database Management,2,2,midterm,30,50,60.0
+1,yixing,zheng,0,7,CPSC 408,2018,Spring,Database Management,3,3,final,80,100,80.0
